@@ -1,2 +1,2 @@
-# Spring Semester Programming/Computer Science Projects
+# Spring Semester Progress
 
