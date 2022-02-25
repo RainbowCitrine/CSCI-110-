@@ -1,2 +1,2 @@
-# CSCI-110-
-Labs for CSCI 110 
+# Spring Semester Programming/Computer Science Projects
+
