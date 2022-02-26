@@ -1,3 +1,6 @@
+/This program is a mini calculator from C++
+
+
 #include <iostream>
 
 using namespace std;
