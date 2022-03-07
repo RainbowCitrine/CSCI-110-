@@ -12,9 +12,6 @@ int main(){
     
     double discriminate = b * b - 4 * a * c; 
     
-    
-    //((discriminate > 0) ? cout << rootOne << rootTwo << endl : ((discriminate == 0) ? cout << rootOne << endl : ((discriminate < 0) ? cout << "this equation has no real roots"<< endl : cout << "N/A")));
-    
     if (discriminate < 0){
         cout << "The equation has no real roots" << endl; 
     
