@@ -21,7 +21,7 @@ int main(){
     }
     else if (discriminate == 0){
         double rootOne = (-b + sqrt(b * b - 4 * a * c)) / (2*a);
-        cout << "The root is " << root << endl; 
+        cout << "The root is " << rootOne << endl; 
     }
     else{
         double rootOne = (-b + sqrt(b * b - 4 * a * c)) / (2*a);
