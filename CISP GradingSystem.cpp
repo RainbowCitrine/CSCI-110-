@@ -23,18 +23,18 @@ int main()
         
         
         
-        if(currentScore > largest) //if currentScore beats our largest
+        if(currentScore > largest) //if currentScore beats out our largest we need to update it with the second score
         {
-            secondLargest = largest; //demoted the largest
-            secondLargestName = largestName;
+            secondLargest = largest; //demoted the largest with the current score
+            secondLargestName = largestName; //updated our largest name with the second name if it beats out our problem 
             
-            largest = currentScore; //updated the largest
-            largestName = currentName;
+            largest = currentScore; //updated the largest score from the second score 
+            largestName = currentName; 
         }
         else if(currentScore > secondLargest) //if currentScore beats the second largest
         {
             secondLargest = currentScore; //updated our secondLargest
-            secondLargestName = currentName;
+            secondLargestName = currentName; //
         }
         
         
