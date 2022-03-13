@@ -34,7 +34,7 @@ int main()
         else if(currentScore > secondLargest) //if currentScore beats the second largest
         {
             secondLargest = currentScore; //updated our secondLargest
-            secondLargestName = currentName; //
+            secondLargestName = currentName; 
         }
         
         
