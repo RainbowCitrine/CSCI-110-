@@ -294,7 +294,7 @@ int main()
         cout << "Would you like to proceed y/n?" << endl; 
         cin >> n; 
 
-        if (n == 'n' || 'n')
+        if (n == 'n' || n == 'N')
         {
             cout << "Thank you for using the trigonometry function locator!" << endl; 
         }
