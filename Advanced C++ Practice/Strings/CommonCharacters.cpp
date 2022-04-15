@@ -6,6 +6,10 @@ Enter a string s2: aecaten
 The common characters are ac
 */
 
+
+
+
+
 //My solution 
 
 #include <iostream> 
