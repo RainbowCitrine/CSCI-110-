@@ -1,14 +1,18 @@
 /*
 Write a test program that reads a string, invokes the count function, and displays the counts.
 
-For example: 
-Programming is cool 
-
-P: 1 time 
-r: 2 times
+Programing is fun
+a: 1 time
+f: 1 time
+g: 2 times
+i: 2 times
+m: 1 time
+n: 2 times
 o: 1 time
-
-and so on...
+p: 1 time
+r: 2 times
+s: 1 time
+u: 1 time
 
 
 */
